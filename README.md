@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, 👋 
+# I'm Galiwango
+I'm a software Developer passionate about writing clean code and developing solutions that impact the world positively. 
+Some of the technologies I enjoy working with are Spring, Google Web Toolkit(GWT), Maven, Bootstrap.
 
 <!--
 **gango-anan/gango-anan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
