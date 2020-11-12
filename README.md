@@ -1,6 +1,6 @@
 ### Hi there, 👋 
-# I'm Galiwango
-I'm a software Developer passionate about writing clean code and developing solutions that impact the world positively. 
+# I'm Galiwango,
+A software Developer passionate about writing clean code and developing solutions that impact the world positively. 
 I enjoy working with Spring, Google Web Toolkit(GWT), Maven, Bootstrap.
 
 ## Lets connect on 
