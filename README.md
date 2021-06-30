@@ -1,7 +1,7 @@
 ### Hi there, 👋 
 # I'm Galiwango,
-A software Developer passionate about writing clean code and developing solutions that impact the world positively. 
-I enjoy working with Ruby on Rails, JavaScript, React, Java, Docker and Kubernetes.
+A software developer passionate about writing clean code and developing solutions that impact the world positively. 
+I enjoy working with the following technologies, RESTful APIs, Ruby on Rails, JavaScript, React, Java, Docker and Kubernetes.
 
 
 <!--
