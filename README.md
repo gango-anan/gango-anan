@@ -1,12 +1,8 @@
 ### Hi there, 👋 
 # I'm Galiwango,
 A software Developer passionate about writing clean code and developing solutions that impact the world positively. 
-I enjoy working with Spring, Google Web Toolkit(GWT), Maven, Bootstrap.
+I enjoy working with Ruby on Rails, JavaScript, React, Java, Docker and Kubernetes.
 
-## Lets connect on 
-- GitHub: [@gango-anan](https://github.com/gango-anan)
-- Twitter: [@gango_anan](https://twitter.com/gango_anan)
-- LinkedIn: [@galiwango-ananiya](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
 <!--
 **gango-anan/gango-anan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,3 +18,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+- 🔭 I’m currently a Full Stack Software Developer.
+- 🌱 I’m currently learning React and Redux.
+- 👯 I’m looking forward to solving problems using the following technologies, Java, Ruby on Rails, JavaScript, React and Redux.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: It always seems impossible until it's done.
+
+## Let's connect on 
+- GitHub: [@gango-anan](https://github.com/gango-anan)
+- Twitter: [@gango_anan](https://twitter.com/gango_anan)
+- LinkedIn: [@galiwango-ananiya](https://www.linkedin.com/in/galiwango-ananiya)
+
+
+[![Galiwango Ananiya's github stats](https://github-readme-stats.vercel.app/api?username=gango-anan&show_icons=true&theme=radical)](https://github.com/gango-anan/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gango-anan&show_icons=true&theme=radical&layout=compact)](https://github.com/gango-anan/github-readme-stats)
