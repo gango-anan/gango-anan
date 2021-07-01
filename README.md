@@ -1,6 +1,6 @@
 ### Hi there, 👋 
 # I'm Galiwango,
-A Full-stack software developer passionate about writing clean code and developing solutions that impact the world positively. 
+A full-stack software developer passionate about writing clean code and developing solutions that impact the world positively. 
 I enjoy working with the following technologies, RESTful APIs, Ruby on Rails, JavaScript, React, Java, Docker and Kubernetes.
 
 
