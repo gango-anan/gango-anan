@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently a Full-stack software developer.
-- 🌱 I’m currently learning React and Redux.
+- 🌱 I’m currently learning React Native.
 - 👯 I’m looking forward to solving problems using the following technologies, Java, Ruby on Rails, JavaScript, React and Redux.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: It always seems impossible until it's done.
